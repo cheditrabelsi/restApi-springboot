@@ -8,7 +8,7 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.oussema</groupId>
+	<groupId>com.chedi</groupId>
 	<artifactId>Projet_Rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Projet_Rest</name>
